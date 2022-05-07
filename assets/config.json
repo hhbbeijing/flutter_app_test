@@ -1,0 +1,10 @@
+{
+  "msg": "成功",
+  "code": "RE0000",
+  "content": {
+    "nameList": [
+      "Zhangsan"
+    ]
+  },
+  "respTime": "20220501120820"
+}
